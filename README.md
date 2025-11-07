@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Bamidele Ojo! 👋
 
-<!--
-**BamzTech5/BamzTech5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+**BamzTech5/BamzTech5** is a Cybersecurity Specialist ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring SOC Analysis, AI in Cybersecurity, and Security Auditing and Compliance.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Network Configurations, Identity Access Management, Vulnerability Accessment and Penetration Testing (VAPT), Advanced Threat Analytics, Security Incident Response, Reporting and Mitigation, and Security Auditing and Compliance.
+- 🌱 I’m currently learning AI in Cybersecurity and API Security.
+- 👯 I’m looking to collaborate on projects bothering on Security Auditing and Compliance, Security Incident Response, Reporting and Mitigation, Network Configurations (routers, Firewalls, Servers and AML rules configuration).
+- 🤔 I’m looking for help with Vulnerability Accessment and Penetration Testing (VAPT), Network Configurations (routers, Firewalls, Servers and AML rules configuration), Security Auditing and Compliance Projects
+- 💬 Ask me about Cybersecurity
+- 📫 How to reach me: bamzb222@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: A stitch in time saves you alot more!
+- Quote: Where there is a Will, there is a Way!
