@@ -1,7 +1,7 @@
 ## Hi, I'm Bamidele Ojo! 👋
 
 ### About Me
-**BamzTech5/BamzTech5** is a Cybersecurity Specialist ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BamzTech5/BamzTech5** is a Cybersecurity Specialist ✨ Techguru ✨ 
 Exploring SOC Analysis, AI in Cybersecurity, and Security Auditing and Compliance.
 
 
